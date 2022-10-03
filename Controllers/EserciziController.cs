@@ -2,7 +2,7 @@
 
 namespace la_mia_pizzeria_static.Controllers
 {
-    public class Esercizi : Controller
+    public class EserciziController : Controller
     {
         public IActionResult Index()
         {
